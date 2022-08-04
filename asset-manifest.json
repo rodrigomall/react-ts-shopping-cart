@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-ts-shopping-cart/static/js/main.1ca8a32f.js",
+    "static/js/787.1e6378eb.chunk.js": "/react-ts-shopping-cart/static/js/787.1e6378eb.chunk.js",
+    "index.html": "/react-ts-shopping-cart/index.html",
+    "main.1ca8a32f.js.map": "/react-ts-shopping-cart/static/js/main.1ca8a32f.js.map",
+    "787.1e6378eb.chunk.js.map": "/react-ts-shopping-cart/static/js/787.1e6378eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ca8a32f.js"
+  ]
+}
